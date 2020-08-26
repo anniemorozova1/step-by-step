@@ -1,13 +1,34 @@
 h1 {
-    background-color: coral;
+    background-color: rgb(210, 158, 253);
+    text-align: left;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+body {
+    background-color: rgb(210, 158, 253);
     text-align: center;
-    font-size: 100px;
 }
 
-div {
-    background-color: blue;
+h2 {
+    background-color: rgb(210, 158, 253);
+    text-align: right;
+    font-size: 40px;
+    color: rgb(133, 145, 253);
 }
 
-.hello {
-    background-color: pink;
+h3
+{
+    background-color: rgb(210, 158, 253);
+    text-align: left;
+    font-size: 30px;
+    color: rgb(130, 255, 249);
+}
+
+h4
+{
+    background-color: rgb(210, 158, 253);
+    text-align: right;
+    font-size: 20px;
+    color: rgb(130, 255, 186);
 }
