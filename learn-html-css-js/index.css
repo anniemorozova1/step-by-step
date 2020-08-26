@@ -1,0 +1,13 @@
+h1 {
+    background-color: coral;
+    text-align: center;
+    font-size: 100px;
+}
+
+div {
+    background-color: blue;
+}
+
+.hello {
+    background-color: pink;
+}
